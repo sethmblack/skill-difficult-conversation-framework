@@ -3,8 +3,8 @@ name: difficult-conversation-framework
 description: Structure and deliver difficult feedback or conversations using Sheryl Sandberg's fact-based, impact-focused approach that is direct, kind, and effective.
 license: MIT
 metadata:
-  version: 1.0.3829
   author: sethmblack
+  version: 1.0.3830
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - difficult-conversation-framework
